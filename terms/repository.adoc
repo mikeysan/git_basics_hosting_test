@@ -1,0 +1,12 @@
+
+=== Repository
+
+* Git stores information in a data structure called a repository (repo).
+* Simply put, a repo is a place where the history of the user's work is stored. 
+* Repositories are of two types:
+    ** Local repo
+    ** Remote repo
++
+For more information on the types of repos, refer to link:index.adoc#_repositories_its_types[this] section.
+
+'''
